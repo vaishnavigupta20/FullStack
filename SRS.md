@@ -3,7 +3,6 @@
 
 # 📄 Software Requirement Specification (SRS)
 **Project Title:** Local Job Portal (Full-Stack)  
-**Developer:** Vaishnavi Gupta  
 **Stack:** MERN (MongoDB, Express, React, Node.js)
 
 ---
